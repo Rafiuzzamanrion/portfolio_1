@@ -127,18 +127,3 @@ nav ul li a:hover:after {
     top: 20.2%;
 
 }
-
-.icon i {
-    font-size: 50px;
-    color: rgb(214, 57, 83);
-
-    transition: 2s ease;
-    display: inline;
-    left: 60%;
-
-
-}
-
-.icon i:hover {
-    color: aqua;
-}
